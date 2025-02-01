@@ -1,4 +1,4 @@
 #EXTM3U
-#EXT-X-VERSION:3
-#EXT-X-STREAM-INF:BANDWIDTH=1393632,RESOLUTION=1280x720,CODECS="avc1.64001f,mp4a.40.2"
-http://45.143.220.6:3333/live/premium-aostv-free/download-fdrm-aostv.asia/545.ts
+#EXTINF:0, SUPERSPORT ACTION
+#EXTVLCOPT:http-user-agent=Dalvik/5.1.0
+http://45.143.220.6:3333/live/premium-aostv-free/download-fdrm-aostv.asia/171.ts
