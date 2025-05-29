@@ -1,9 +1,6 @@
 #EXTM3U
-#EXT-X-VERSION:1
-#EXT-X-MEDIA-SEQUENCE:1
-#EXT-X-TARGETDURATION:1
-#EXT-X-I-FRAMES-ONLY
-#EXT-X-DISCONTINUITY-SEQUENCE:2
-#EXT-X-ALLOW-CACHE:NO
-#EXTINF:1,
-https://a1xs.vip/1100041
+#EXTINF:-1  tvg-id="ESPN.us" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/espn-usa.png" group-title="DaddyLive USA",ESPN USA
+#EXTVLCOPT:http-origin=http://drewlive24.duckdns.org
+#EXTVLCOPT:http-referrer=http://drewlive24.duckdns.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0
+https://zekonew.newkso.ru/zeko/premium44/mono.m3u8
