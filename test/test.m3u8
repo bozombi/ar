@@ -1,0 +1,7 @@
+#EXTM3U
+
+#EXTINF:-1 group-title="POLAND",CANAL+ DOMO .c
+#EXTVLCOPT:http-origin=https://vavoo.to
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+https://vavoo.to/vavoo-iptv/play/16750115622191e8b7fa50
