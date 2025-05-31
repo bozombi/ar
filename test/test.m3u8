@@ -6,7 +6,7 @@
 #EXT-X-DISCONTINUITY-SEQUENCE:2
 #EXT-X-ALLOW-CACHE:NO
 #EXTINF:1,
-#EXTVLCOPT:http-origin=https://vavoo.to
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-#EXTVLCOPT:http-user-agent=okhttp/4.11.0
-https://vavoo.to/vavoo-iptv/play/41803423298f18b92da6d1/index.m3u8
+#EXTVLCOPT:http-origin=http://vavoo.to
+#EXTVLCOPT:http-referrer=http://vavoo.to/
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://vavoo.to/play/1675011562/index.m3u8
